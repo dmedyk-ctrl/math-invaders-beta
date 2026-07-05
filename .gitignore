@@ -1,0 +1,6 @@
+# Rien à ignorer pour l'instant — les binaires sont des assets de Release, pas dans le repo.
+build/
+*.zip
+*.tar.gz
+*.exe
+*.x86_64
