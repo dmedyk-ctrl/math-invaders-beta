@@ -63,7 +63,7 @@ Tout se joue au clavier. Le jeu démarre en plein écran (F11 pour repasser en f
 
 **C'est le plus important pour moi !** Même un truc minuscule, dis-le.
 
-### 👉 [Formulaire de retour (2 min, aucun compte requis)](__FORM_URL__)
+### 👉 [Formulaire de retour (2 min, aucun compte requis)](https://forms.gle/sZTmJV4U26PyajgKA)
 
 Dans ton retour, essaie de préciser :
 - Ton **système** (Windows / Mac / Linux)
