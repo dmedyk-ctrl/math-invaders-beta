@@ -1,7 +1,7 @@
 # 🚀 Math Invaders — Beta
 
 > Un shoot'em up éducatif où tu défends la Terre à coups de bonnes réponses.
-> Version **0.1.0-beta** — merci de tester ! 🙏
+> Version beta — merci de tester ! 🙏 (les nouveautés de chaque version sont dans les [Releases](../../releases))
 
 ---
 
